@@ -1,13 +1,13 @@
-# Tweeter Project
+# FoodApp Project
 
 FoodApp is a full stack web application built with node, express, PostgreSQL that allows users to register for an account, order food and revieve sms notifications via Twilio for the estimated time the food will take to be prepared. The vendor will also recieve a phone call via Twilio which will repeat the order back to the vendor.
 
 ## Final product
 
-![This is the home page](https://github.com/rizelmine17/tweeter/blob/master/docs/Home-page.png)
-![Registration page](https://github.com/rizelmine17/tweeter/blob/master/docs/tweets.png)
-![Menu page](https://github.com/rizelmine17/tweeter/blob/master/docs/toggle.gif)
-![Confirmation page](https://github.com/rizelmine17/tweeter/blob/master/docs/toggle.gif)
+![This is the home page](https://github.com/rickysychan/mzr_foodapp/blob/master/docs/Landing_page.png)
+![Registration page](https://github.com/rickysychan/mzr_foodapp/blob/master/docs/Registration.png)
+![Menu page](https://github.com/rickysychan/mzr_foodapp/blob/master/docs/Menu_page.png)
+![Confirmation page](https://github.com/rickysychan/mzr_foodapp/blob/master/docs/Confirmation_Page.png)
 
 ## Dependencies
 
