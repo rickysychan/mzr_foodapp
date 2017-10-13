@@ -1,6 +1,6 @@
 # FoodApp Project
 
-FoodApp is a full stack web application built with node, express, PostgreSQL that allows users to register for an account, order food and revieve sms notifications via Twilio for the estimated time the food will take to be prepared. The vendor will also recieve a phone call via Twilio which will repeat the order back to the vendor.
+FoodApp is a full stack web application built with node, express, PostgreSQL that allows users to register for an account, order food and recieve sms notifications via Twilio for the estimated time the food will take to be prepared. The vendor will also recieve a phone call via Twilio which will repeat the order back to the vendor.
 
 ## Final product
 
